@@ -1,6 +1,9 @@
 # 2D Game Engine (C# / Raylib)
 
+Created by Adithya Kannan
+---
 A modular retro-style 2D game engine built with **C# (.NET 8)** and **Raylib-cs**, plus two sample games.
+
 
 ## Solution layout
 
@@ -51,6 +54,3 @@ dotnet run --project ShootTheDuck
 - **R** — reload
 - **Space** / **Click** — start from intro / return to title
 
-## License
-
-See [LICENSE](LICENSE).
